@@ -9,8 +9,7 @@ void main()
 
     printf("name\t:%s\n",name);
     printf("age\t:%d\n",age);
-    printf("salary\t:%.3f",salary);
-
+    printf("salary\t:%.2f\n",salary);
 }
 
 
