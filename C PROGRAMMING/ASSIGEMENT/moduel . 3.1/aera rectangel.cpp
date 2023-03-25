@@ -9,5 +9,5 @@ int main() {
    area = side * side;
    printf("\nArea of Square : %d", area);
  
-   return (0);
+   return 0;
 }
